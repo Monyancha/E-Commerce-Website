@@ -2,6 +2,7 @@
 <p align="center">Shopping Cart Solution - CodeIgniter and Bootstrap</p>
  
 ## Bootsrap Responsive Multi-Vendor, MultiLanguage Online Shop Platform
+## Making online shoping easy, so what are you waiting for... 
 
 ## Support of following features
 
